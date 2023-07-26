@@ -23,7 +23,7 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'balcão atacado') {
       pdvsclone.querySelector('.card').style.background = '#002D58';
     }
-    if(pdv.descripion === 'Mix Mais') {
+    if(pdv.descripion === 'Super Drive') {
       pdvsclone.querySelector('.card').style.background = '#004b23';
     }
     if(pdv.descripion === 'BOTECO') {
