@@ -27,7 +27,7 @@ pdvsJson.map((pdv) => {
       pdvsclone.querySelector('.card').style.background = '#004b23';
     }
     if(pdv.descripion === 'Café') {
-      pdvsclone.querySelector('.card').style.background = '#E19200';
+      pdvsclone.querySelector('.card').style.background = '#A52A2A';
     }
     if(pdv.descripion === 'ELETRO') {
       pdvsclone.querySelector('.card').style.background = '#5a189a';
