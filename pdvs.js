@@ -1,4 +1,4 @@
-2let pdvsJson = [ 
+let pdvsJson = [ 
     {
         name: 'PDV 1',
         descripion:'Frente de Loja',
