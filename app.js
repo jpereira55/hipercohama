@@ -14,7 +14,7 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'Rotisseria') {
       pdvsclone.querySelector('.card').style.background = '#000000';
     }
-    if(pdv.descripion === 'LANCHONETE') {
+    if(pdv.descripion === 'Churros') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
     if(pdv.descripion === 'Adega') {
@@ -27,7 +27,7 @@ pdvsJson.map((pdv) => {
       pdvsclone.querySelector('.card').style.background = '#004b23';
     }
     if(pdv.descripion === 'Café') {
-      pdvsclone.querySelector('.card').style.background = '#A52A2A';
+      pdvsclone.querySelector('.card').style.background = '#B22222';
     }
     if(pdv.descripion === 'ELETRO') {
       pdvsclone.querySelector('.card').style.background = '#5a189a';
