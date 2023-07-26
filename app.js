@@ -14,6 +14,9 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'Rotisseria') {
       pdvsclone.querySelector('.card').style.background = '#000000';
     }
+    if(pdv.descripion === 'A la Carte') {
+      pdvsclone.querySelector('.card').style.background = '#708090';
+    }
     if(pdv.descripion === 'Churros') {
       pdvsclone.querySelector('.card').style.background = '#00008B';
     }
