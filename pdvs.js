@@ -3,43 +3,43 @@ let pdvsJson = [
         name: 'PDV 1',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.123:9898/normal.html'
+        link: 'http://192.168.60.53:9898/normal.html'
     },
     {
         name: 'PDV 2',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.118:9898/normal.html'
+        link: 'http://192.168.60.147:9898/normal.html'
     },
     {
         name: 'PDV 3',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.129:9898/normal.html'
+        link: 'http://192.168.60.163:9898/normal.html'
     },
     {
         name: 'PDV 4',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.125:9898/normal.html'
+        link: 'http://192.168.60.164:9898/normal.html'
     },
     {
         name: 'PDV 5',
-        descripion:'Frente de Loja',
+        descripion:'DRIVE',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.139:9898/normal.html'
+        link: 'http://192.168.60.165:9898/normal.html'
     },
     {
         name: 'PDV 6',
-        descripion:'Frente de Loja',
+        descripion:'DRIVE',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.178:9898/normal.html'
+        link: 'http://192.168.60.168:9898/normal.html'
     },
     {
         name: 'PDV 7',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.169:9898/normal.html'
+        link: 'http://192.168.60.169:9898/normal.html'
     },
     {
         name: 'PDV 8',
