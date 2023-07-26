@@ -36,6 +36,6 @@ pdvsJson.map((pdv) => {
       pdvsclone.querySelector('.card').style.background = '#212529';
     }
   if(pdv.descripion === 'Area Nova') {
-      pdvsclone.querySelector('.card').style.background = '#B0C4DE';
+      pdvsclone.querySelector('.card').style.background = '#A9A9A9';
     }
 });
