@@ -1,4 +1,4 @@
-let pdvsJson = [ 
+2let pdvsJson = [ 
     {
         name: 'PDV 1',
         descripion:'Frente de Loja',
@@ -144,13 +144,13 @@ let pdvsJson = [
         link: 'http://192.168.60.22:9898/normal.html'
     },
     {
-        name: 'PDV 01 - Eletro',
+        name: 'PDV 01',
         descripion:'ELETRO',
         img: 'imagens//Eletromateus.png',
         link: 'http://192.168.60.145:9898/normal.html'
     },
     {
-        name: 'PDV 02 - Eletro',
+        name: 'PDV 02',
         descripion:'ELETRO',
         img: 'imagens/Eletromateus.png',
         link: 'http://192.168.60.71:9898/normal.html'
