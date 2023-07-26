@@ -26,7 +26,7 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'Super Drive') {
       pdvsclone.querySelector('.card').style.background = '#004b23';
     }
-    if(pdv.descripion === 'Restaurante') {
+    if(pdv.descripion === 'Café') {
       pdvsclone.querySelector('.card').style.background = '#E19200';
     }
     if(pdv.descripion === 'ELETRO') {
