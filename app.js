@@ -12,7 +12,7 @@ pdvsJson.map((pdv) => {
 
 
     if(pdv.descripion === 'Rotisseria') {
-      pdvsclone.querySelector('.card').style.background = '#E19200';
+      pdvsclone.querySelector('.card').style.background = '#000000';
     }
     if(pdv.descripion === 'LANCHONETE') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
