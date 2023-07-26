@@ -222,6 +222,72 @@ let pdvsJson = [
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.155:9898/normal.html'
     },
+     {
+        name: 'PDV 01',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.131:9898/normal.html'
+    },
+    {
+        name: 'PDV 02',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.221:9898/normal.html'
+    },
+    {
+        name: 'PDV 03',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.133:9898/normal.html'
+    },
+    {
+        name: 'PDV 04',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.134:9898/normal.html'
+    },
+    {
+        name: 'PDV 05',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.169:9898/normal.html'
+    },
+    {
+        name: 'PDV 06',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.29:9898/normal.html'
+    },
+    {
+        name: 'PDV 07',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.173:9898/normal.html'
+    },
+    {
+        name: 'PDV 08',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.136:9898/normal.html'
+    },
+    {
+        name: 'PDV 09',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.132:9898/normal.html'
+    },
+    {
+        name: 'PDV 10',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.139:9898/normal.html'
+    },
+    {
+        name: 'PDV 11',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.217:9898/normal.html'
+    },
     {
         name: 'PDV - app',
         descripion:'Boteco',
