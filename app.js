@@ -17,7 +17,7 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'LANCHONETE') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
-    if(pdv.name === 'PDV 27') {
+    if(pdv.descripion === 'Adega') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
     if(pdv.descripion === 'Boteco') {
