@@ -209,5 +209,11 @@ let pdvsJson = [
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.121:9898/normal.html'
     },
+    {
+        name: 'PDV - ADEGA',
+        descripion:'ADEGA',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.102:9898/normal.html'
+    },
     
 ];
