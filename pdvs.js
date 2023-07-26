@@ -158,49 +158,49 @@ let pdvsJson = [
     {
         name: 'PDV 01',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.178:9898/normal.html'
     },
     {
         name: 'PDV 02',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.112:9898/normal.html'
     },
     {
         name: 'PDV 03',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.187:9898/normal.html'
     },
     {
         name: 'PDV 04',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.188:9898/normal.html'
     },
     {
         name: 'PDV 05',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.181:9898/normal.html'
     },
     {
         name: 'PDV 06',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.171:9898/normal.html'
     },
     {
         name: 'PDV 07',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.183:9898/normal.html'
     },
 {
         name: 'PDV 08',
         descripion:'Rotisseria',
-        img: 'imagens/1.jpg',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.191:9898/normal.html'
     },
     {
