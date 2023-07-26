@@ -215,5 +215,23 @@ let pdvsJson = [
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.102:9898/normal.html'
     },
+    {
+        name: 'PDV',
+        descripion:'Boteco',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.116:9898/normal.html'
+    },
+    {
+        name: 'PDV 01',
+        descripion:'Boteco',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.177:9898/normal.html'
+    },
+    {
+        name: 'PDV 02',
+        descripion:'Boteco',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.46:9898/normal.html'
+    },
     
 ];
