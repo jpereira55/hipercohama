@@ -36,7 +36,7 @@ pdvsJson.map((pdv) => {
       pdvsclone.querySelector('.card').style.background = '#5a189a';
     }
     if(pdv.descripion === 'RESERVA') {
-      pdvsclone.querySelector('.card').style.background = '#212529';
+      pdvsclone.querySelector('.card').style.background = '#D83006';
     }
   if(pdv.descripion === 'Area Nova') {
       pdvsclone.querySelector('.card').style.background = '#A9A9A9';
