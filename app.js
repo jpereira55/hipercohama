@@ -33,7 +33,7 @@ pdvsJson.map((pdv) => {
       pdvsclone.querySelector('.card').style.background = '#B22222';
     }
     if(pdv.descripion === 'ELETRO') {
-      pdvsclone.querySelector('.card').style.background = '#5a189a';
+      pdvsclone.querySelector('.card').style.background = '#D83006';
     }
     if(pdv.descripion === 'RESERVA') {
       pdvsclone.querySelector('.card').style.background = '#D83006';
