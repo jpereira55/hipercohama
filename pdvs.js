@@ -63,7 +63,7 @@ let pdvsJson = [
         name: 'PDV 11',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.111:9898/normal.html'
+        link: 'http://192.168.60.54:9898/normal.html'
     },
     {
         name: 'PDV 12',
@@ -129,7 +129,7 @@ let pdvsJson = [
         name: 'PDV 22',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.137:9898/normal.html'
+        link: 'http://192.168.60.57:9898/normal.html'
     },
     {
         name: 'PDV 23',
@@ -159,7 +159,7 @@ let pdvsJson = [
         name: 'PDV 03 - Extra',
         descripion:'ELETRO',
         img: 'imagens/ELETRO_MATEUS.png',
-        link: 'http://192.168.60.160:9898/normal.html'
+        link: 'http://192.168.60.137:9898/normal.html'
     },
     {
         name: 'PDV 01',
